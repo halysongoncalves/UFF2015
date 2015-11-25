@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void showDialog(){
-        AlertDialog alert = new AlertDialog.Builder(this).setMessage(R.string.dialog).create();
+        AlertDialog alert = new AlertDialog.Builder(this).setMessage(getString(R.string.dialog)).create();
         alert.show();
     }
 }
