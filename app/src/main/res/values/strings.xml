@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Robolectric</string>
+    <string name="toolbar_title">Next Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog">Messagem Dialog</string>
+    <string name="textview_hello">Hello World!</string>
+    <string name="textview_next_activity">Próxima tela</string>
+    <string name="button_open_next_activity">Abrir Próxima Tela</string>
+    <string name="button_open_dialog">Abrir Dialog</string>
+
+
+</resources>
